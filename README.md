@@ -1,4 +1,4 @@
-# :sound: :rainbow: spectrum-of-frequencies
+# :sound::rainbow: spectrum-of-frequencies
 A spectrogram for analysis sound frequencies
 
 
